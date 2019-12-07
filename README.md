@@ -1,8 +1,11 @@
 # JSDOM memory leak demo
 
+window.close() called too early cause Memory leak sometimes
+
 ## Issues
 
 https://github.com/jsdom/jsdom/issues/2741
+https://github.com/jsdom/jsdom/issues/2742
 
 - - -
 
